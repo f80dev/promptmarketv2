@@ -1,0 +1,113 @@
+{
+  "configVersion": 1,
+  "timestamp": 1724578967107,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.js",
+        "/manifest.webmanifest",
+        "/polyfills.js",
+        "/runtime.js",
+        "/styles.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/audio.png",
+        "/assets/file.png",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/nflux-128.png",
+        "/assets/icons/nflux-256.png",
+        "/assets/icons/nflux-512.png",
+        "/assets/icons/nflux-64.png",
+        "/assets/images_collection.png",
+        "/assets/picture.png",
+        "/assets/webFonts/GilroyRegular/font.woff",
+        "/assets/webFonts/GilroyRegular/font.woff2",
+        "/assets/webFonts/HelveticaInseratLT.ttf",
+        "/assets/webFonts/Swiss721BlackCondensedBT.ttf",
+        "/assets/webFonts/mediasansweb-bold.woff",
+        "/assets/webFonts/mediasansweb-bold.woff2",
+        "/assets/webFonts/mediasansweb-regular.woff",
+        "/assets/webFonts/mediasansweb-regular.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/audio.png": "d19109e08315a3f380f7b370b1dab80abcc60ebe",
+    "/assets/file.png": "44982586598a988368d69e6403bd7b22be3b0c4f",
+    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/assets/icons/nflux-128.png": "cd836c100f2009afb7adbf12f8e6b2c4e46c7394",
+    "/assets/icons/nflux-256.png": "a95ba2f3c09d65864dba29ee31293be5d4740e7a",
+    "/assets/icons/nflux-512.png": "34f327a717d22682fa99f45a6ca9856837c8620c",
+    "/assets/icons/nflux-64.png": "11923365f3b7c7a2c4c748669ae3285716f1d5f0",
+    "/assets/images_collection.png": "42e28cc138ba1d9c4c1927e6dab5e99d36ce94cb",
+    "/assets/picture.png": "7155de1c842ab656c3d2d007db84773bc677d16a",
+    "/assets/webFonts/GilroyRegular/font.woff": "3af221642b4c256268420f0e82583519c21ef868",
+    "/assets/webFonts/GilroyRegular/font.woff2": "b37bd3ed335f0bf8ff29e4176b920a4be1f837b3",
+    "/assets/webFonts/HelveticaInseratLT.ttf": "72bdaf283827e7e2c2dfde8c2635fdc1c4500bc3",
+    "/assets/webFonts/Swiss721BlackCondensedBT.ttf": "2fab61e49e3db6ae73cb7312b6a7b13b8b4dcf59",
+    "/assets/webFonts/mediasansweb-bold.woff": "30897bff3f932629e64a87ae691a2ebe397c92cd",
+    "/assets/webFonts/mediasansweb-bold.woff2": "2b4a1d98540df56d84c02084208fd26068f90de9",
+    "/assets/webFonts/mediasansweb-regular.woff": "c3ed8508e8a3ac5a4bce2c622920964674b9fc7e",
+    "/assets/webFonts/mediasansweb-regular.woff2": "7e99ced9bda11c1e8765ec5907b210c14a84bc06",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "8dc4661dfeca3c13cfd3581d2a80be332aac3ee7",
+    "/main.js": "8e358a22cf79345e72613bf4c0bef7fecd43b7a0",
+    "/manifest.webmanifest": "65d6d2e9c21277eb393bc158d6034246bc400156",
+    "/polyfills.js": "8cfe9a7005bf8c48ba94d3870576728a58bf2a43",
+    "/runtime.js": "50c298087c84b3f4bdda0e3dc758b3dc201d97e0",
+    "/styles.css": "820d4c8cc41cb572fa004630ceb95e1d13781aac"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
